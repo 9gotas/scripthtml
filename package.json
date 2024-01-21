@@ -1,8 +1,4 @@
 {
-  "main": "script.js",
   "scripts": {
     "start": "node script.js"
   },
-  "dependencies": {
-    "alguma-dependencia": "^1.0.0"
-  }
