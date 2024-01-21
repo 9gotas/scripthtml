@@ -1,6 +1,6 @@
 {
-  "name": "scripthtml",
-  "version": "1.0",
+  "name": "meu-projeto",
+  "version": ' ,
   "description": "Descrição do meu projeto",
   "main": "index.js",
   "scripts": {
