@@ -6,8 +6,3 @@
   "dependencies": {
     "alguma-dependencia": "^1.0.0"
   }
-}
-"scripts": {
-  "start": "node script.js",
-  "meu-script": "node script.js"
-}
