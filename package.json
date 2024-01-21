@@ -1,0 +1,16 @@
+{
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "description": "Descrição do meu projeto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "alguma-dependencia": "^1.0.0"
+  }
+}
+"scripts": {
+  "start": "node script.js",
+  "meu-script": "node script.js"
+}
