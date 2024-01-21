@@ -4,7 +4,7 @@ async function getHtml() {
   const driver = await new Builder().forBrowser('chrome').build();
 
   try {
-    const url = 'https://www.exemplo.com'; // Substitua pela URL desejada
+    const url = 'https://www.mysurebets.net/'; // Substitua pela URL desejada
     await driver.get(url);
 
     const html = await driver.getPageSource();
